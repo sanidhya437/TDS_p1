@@ -1,0 +1,8 @@
+langchain-community
+faiss-cpu
+sentence-transformers
+fastapi
+uvicorn
+pypdf
+unstructured
+python-dotenv
